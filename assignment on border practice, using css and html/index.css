@@ -1,0 +1,65 @@
+.church{
+    border: 5px solid blue;
+    padding: 20px;
+    margin: 10px;
+}
+.school{
+    border: 5px solid green;
+    padding: 20px;
+    margin: 10px;
+}
+.destiny{
+    border: 5px solid salmon;
+    padding: 20px;
+    margin: 10px;
+}
+.stiches{
+    border: 5px solid fuchsia;
+    padding: 20px;
+    margin: 10px;
+}
+.grants{
+    border: 5px solid blueviolet;
+    padding: 20px;
+    margin: 10px;
+}
+.button1{
+    background-color: blue;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+    color: white;
+}
+.button2{
+    background-color: red;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+    color: white;
+}
+.button3{
+    background-color: yellow;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+    color: white;
+}
+.button4{
+    background-color: green;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+    color: white;
+}
+.button5{
+    background-color: darkgoldenrod;
+    border-radius: 20px;
+    border: none;
+    width: 280px;
+    height: 20px;
+    color: white;
+}
